@@ -27,13 +27,13 @@ Os métodos testados recebem a anotação ***@Test***.
  * A ordem dos parâmetros é -> Valor Esperado, Valor Atual.
 
 
-# DESENVOLVIMENTO GUIADO POR TESTE - TDD
+# Desenvolvimento Guiado por Testes - TDD
 
 ## Instrutora Everis - Katia Gonçalves
 
 ***TDD*** - DESENVOLVIMENTO GUIADO POR TESTE (Test Driven Development).
 
-​	- Ficou mais difundido nos últimos anos pelo surgimento das metodologias e desenvolvimentos ágeis.
+- Ficou mais difundido nos últimos anos pelo surgimento das metodologias e desenvolvimentos ágeis.
 
 - *Junit* - Plugin que possibilita realizar os testes.
 
